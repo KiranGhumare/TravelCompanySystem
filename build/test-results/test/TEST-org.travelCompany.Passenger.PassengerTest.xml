@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.travelCompany.Passenger.PassengerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-25T15:44:20" hostname="192.168.1.6" time="0.014">
+  <properties/>
+  <testcase name="signUpActivityTestForPremiumPassenger()" classname="org.travelCompany.Passenger.PassengerTest" time="0.014"/>
+  <system-out><![CDATA[Please enroll in the tp1 first
+pp1 are enrolled for a1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
